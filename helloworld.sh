@@ -3,7 +3,7 @@
 func(){
 
 echo "hello world"
-
+ll ~/
 }
 
 func
